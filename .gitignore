@@ -1,3 +1,5 @@
+.vscode
+.vs
 .env
 package-lock.json
 dist
